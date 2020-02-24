@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+*.log
+.DS_Store
+._.DS_Store
+
+data
+imgs
+models
+
